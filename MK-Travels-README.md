@@ -22,7 +22,7 @@ MK-Travels is a full-stack bus ticket booking web application that allows users 
 - React.js
 - React Router
 - Axios
-- Tailwind CSS
+- CSS
 - FontAwesome Icons
 
  Backend:
